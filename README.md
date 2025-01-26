@@ -1,2 +1,1 @@
-# Typing-Test
-This repo contains files simulating real-time typing test mechanism
+This project deals with creating a real-time simulation for typing speed test it tells about the speed and accuracy of typing
